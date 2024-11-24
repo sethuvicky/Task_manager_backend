@@ -34,7 +34,7 @@ pnpm install
 Start the development server with the following command:
 
 ```bash
-npm run dev
+npm start
 ```
 
 If you're using yarn or pnpm, use the respective commands:
